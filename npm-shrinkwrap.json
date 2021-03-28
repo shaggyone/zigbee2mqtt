@@ -14641,7 +14641,7 @@
       }
     },
     "zigbee-herdsman-converters": {
-      "version": "git+https://github.com/shaggyone/zigbee-herdsman-converters.git#72c33890728835200e696cbb2d6ba86727bc2f1c",
+      "version": "git+https://github.com/shaggyone/zigbee-herdsman-converters.git#e798b5ffbd4e1a10964eb553c676fe2daa8ae193",
       "from": "git+https://github.com/shaggyone/zigbee-herdsman-converters.git",
       "requires": {
         "axios": "^0.21.1",
